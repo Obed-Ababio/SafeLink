@@ -12,6 +12,6 @@ Follow the steps outlined below to setup the Frontend of this tool locally.
 **Step 2** : In the "More Tools" option of the Google Chrome options dropdown, select "Extensions".  
 **Step 3** : From the list of buttons in the top left corner of the resulting page, click "Load unpacked".  
 **Step 4** : Browse into the directory containing the Frontend of the tool (SafeLink/SafeLinkFrontEnd) and select it.  
-**Step 5**: Turn on the extension.  
+**Step 5** : Turn on the extension.  
 
 Following the steps above should enable you to properly setup the Frontend locally. If cse of any difficulty consult online resoruces on how to unpack a chrome extension.
