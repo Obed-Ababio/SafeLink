@@ -8,7 +8,7 @@ This repository contains the code files for a Google Chrome Extension tool that 
 ## FrontEnd Setup
 <br>
 Follow the steps outlined below to setup the FrontEnd of this tool locally.
-
+<br>
 Step 0 : You will need to have the Google Chrome Browser installed.  
 Step 1 : Clone the repository and locate the sub directory named SafeLinkFrontEnd.  
 Step 2 : In the "More Tools" option of the Google Chrome options dropdown, select "Extensions".  
